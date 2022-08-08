@@ -1,5 +1,5 @@
 ____
- ### :mag_right: *`Console on React`* for find and sort users
+ ### :mag_right: *`Console on React`*
  Так же есть версия на нативном JavaScript
 ____
 
