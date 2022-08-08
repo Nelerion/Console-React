@@ -1,0 +1,10 @@
+.print{
+    margin-left: 5px;
+    
+}
+.printText{
+    color: aliceblue;
+    background-color: rgb(15, 15, 15);
+    border: 0;
+    outline: none;
+}
