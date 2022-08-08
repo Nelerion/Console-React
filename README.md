@@ -1,5 +1,5 @@
 ____
- ### :mag_right: *`Console on React`*
+ ### :computer: *`Console on React`*
  Так же есть версия на нативном JavaScript
 ____
 
