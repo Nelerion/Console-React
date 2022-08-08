@@ -1,6 +1,6 @@
 ____
  ### :computer: *`Console on React`*
- Так же есть [*версия*](https://github.com/Nelerion/Console-JavaScript) на ванильном JavaScript 
+ Так же есть [**версия**](https://github.com/Nelerion/Console-JavaScript) на ванильном JavaScript 
 ____
 
 ![1](https://user-images.githubusercontent.com/95306473/183500331-b5907aec-70a6-46dc-b113-6d58d054ec4c.png)
